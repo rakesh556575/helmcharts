@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-09T06:46:16.332867019Z"
+    description: A Helm chart for Kubernetes
+    digest: 36af1b97b9315c6318d727a06b4d7ea71386129f7e1b54bd6d9142833694a765
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-09T06:46:16.328695583Z"
